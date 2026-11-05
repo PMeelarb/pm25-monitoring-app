@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "crop": "rice",
+        "province": "นครราชสีมา",
+        "areaSqKm": 245
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [102.08,14.97],
+            [102.22,14.97],
+            [102.22,14.85],
+            [102.08,14.85],
+            [102.08,14.97]
+          ]
+        ]
+      }
+    }
+  ]
+}
